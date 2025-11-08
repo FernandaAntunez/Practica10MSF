@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: MATLAB; SPYDER
+title: MATLAB
 message: lenguaje m; phyton
 type: software
 authors:
@@ -10,13 +10,13 @@ authors:
     family-names: Antunez
     email: l22211745@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/FernandaAntunez/Practica4MSF'
+repository-code: 'https://github.com/FernandaAntunez/Practica10MSF'
 keywords:
-  - Circuito RLC
-  - Controlador PID
-  - Sistema Cardiovascular
+  - Regeneración de globulos rojos  
+  - Transfusión sanguínea
+  - Sistema de EDOs
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-10-17'
+date-released: '2025-11-07'
