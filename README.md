@@ -2,9 +2,9 @@
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Fernanda Antúnez Rubio [22211745]; 22211745@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -36,9 +36,9 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = 59.4478;
-2. x2(0) = 44.3340;
-3. x3(0) = 861.4899;
+1. x1(0) = 59.4478, 58.8950, 58.667, 58.9564, 58.5419, 59.2753, 58.7772, 58.6727, 59.1264, 58.8525;
+2. x2(0) = 44.3340  43.9217  43.7477  43.9675  43.6583  44.2053  43.8338  43.7559  44.0943  43.8900;
+3. x3(0) =  861.4899  853.4778  850.0971  854.3679  848.3609  858.9899  851.7707  850.2573  856.8315  852.8619;
 
 
 
